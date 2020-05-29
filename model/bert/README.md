@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/it21208/MeLIR/blob/master/MeLIR-logo.png" width="360">
+</p>
+
 # BioBERT
 
 Finetuning the pre-trained [BERT](https://arxiv.org/abs/1810.04805) models for Document Classification tasks.
